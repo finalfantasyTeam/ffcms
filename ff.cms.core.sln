@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ff.cms.core", "ff.cms.core\ff.cms.core.csproj", "{C084362D-5B79-4D16-A911-5BECF953086E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ff.cms.repository", "ff.cms.repository\ff.cms.repository.csproj", "{D57F2A49-FD6E-459C-A35E-2BB64D282489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C084362D-5B79-4D16-A911-5BECF953086E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C084362D-5B79-4D16-A911-5BECF953086E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C084362D-5B79-4D16-A911-5BECF953086E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C084362D-5B79-4D16-A911-5BECF953086E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57F2A49-FD6E-459C-A35E-2BB64D282489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57F2A49-FD6E-459C-A35E-2BB64D282489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57F2A49-FD6E-459C-A35E-2BB64D282489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57F2A49-FD6E-459C-A35E-2BB64D282489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
